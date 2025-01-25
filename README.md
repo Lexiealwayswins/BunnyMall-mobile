@@ -72,3 +72,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 9. User page
 ![](./assets/user.png)
 
+### 10. Log out
+![](./assets/logout.png)
+
+
+
